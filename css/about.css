@@ -1,0 +1,16 @@
+.about {
+  max-width: 980px;
+  height: 378px;
+  margin: 50px auto 1000px auto;
+}
+
+.about span {
+  text-transform: uppercase;
+  font-size: 25px;
+  font-weight: bold;
+  border-bottom: solid 2px black;
+  padding-right: 30px;
+  padding-bottom: 20px;
+  font-family: GillSansReg;
+  font-style: normal;
+}

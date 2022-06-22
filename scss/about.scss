@@ -1,0 +1,84 @@
+.about {
+    max-width: 980px;
+    min-height: 378px;
+    margin-left: 140px;
+    display: flex;
+  }
+  
+  .about .about-title {
+    text-transform: uppercase;
+    font-size: 60px;
+    font-weight: bold;
+    border-bottom: solid 2px black;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    font-family: GillSansReg;
+    font-style: normal;
+    margin-top: 100px;
+  }
+  
+  .about-text {
+    margin-top: 60px;
+    font-family: GillSans;
+    font-size: 16px;
+  }
+
+  .client1 {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 40px;
+  }
+  
+
+  .quotes1 {
+    max-width: 980px;
+    min-height: 378px;
+    margin-left: 140px;
+    display: flex;
+  }
+  
+  .quotes1 .quotes1-title {
+    text-transform: uppercase;
+    font-size: 40px;
+    font-weight: bold;
+    border-bottom: solid 2px black;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    font-family: ProximaNovaT;
+    font-style: normal;
+    margin-top: 100px;
+  }
+
+  .aboutphoto1 {
+    background-image: url(../images/about-client-01.jpg);
+    height: 150px;
+    width: 1000px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+
+  .aboutphoto2 {
+    background-image: url(../images/about-client-02.jpg);
+    height: 150px;
+    width: 1000px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  
+  .quotes1-text {
+    font-family: GillSans;
+    font-style: italic;
+    font-size: 16px;
+    margin-left: 20px;
+    display: flex;
+  }
+
+  .clientname1 {
+    font-size: 20px;
+    font-family: ProximaNovaThin;
+    margin-left: 550px;
+    color: #79addc;
+  }
+  

@@ -1,0 +1,114 @@
+.hero3 {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.5))), url(../images/tour/tour-01.jpg);
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/tour/tour-01.jpg);
+  height: 413px;
+  max-width: 981px;
+  margin: 0 auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  position: relative;
+  margin-top: 50px;
+}
+
+.hero3 .hero3-title {
+  position: absolute;
+}
+
+.title-3 {
+  font-size: 60px;
+  color: white;
+  font-family: ProximaNovaT;
+  margin-bottom: -200px;
+  width: 256px;
+}
+
+.gallery-images {
+  margin-top: -50px;
+}
+
+.gallery-images div {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.rowOne {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  padding-top: 100px;
+}
+
+.imageOne {
+  width: 236px;
+  height: 304px;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5))), url(../images/tour/tour-israel/israel-tour-01.jpg);
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.5) rgba(0, 0, 0, 0.5)), url(../images/tour/tour-israel/israel-tour-01.jpg);
+  margin-left: 200px;
+}
+.imageOne .isreal {
+  font-size: 80px;
+  font-family: ProximaNovaT;
+  color: white;
+  text-align: center;
+  margin-top: 35px;
+}
+.imageOne span {
+  font-size: 30px;
+  font-family: ProximaNovaT;
+  color: white;
+  margin-left: 40px;
+}
+
+.imageTwo {
+  width: 236px;
+  height: 304px;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5))), url(../images/tour/tour-israel/israel-tour-02.jpg);
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.5) rgba(0, 0, 0, 0.5)), url(../images/tour/tour-israel/israel-tour-02.jpg);
+}
+.imageTwo .usa {
+  font-size: 80px;
+  font-family: ProximaNovaT;
+  color: white;
+  text-align: center;
+  margin-top: 35px;
+}
+.imageTwo span {
+  font-size: 30px;
+  font-family: ProximaNovaT;
+  color: white;
+  margin-left: 40px;
+}
+
+.imageThree {
+  width: 236px;
+  height: 304px;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5))), url(../images/tour/tour-israel/israel-tour-03.jpg);
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.5) rgba(0, 0, 0, 0.5)), url(../images/tour/tour-israel/israel-tour-03.jpg);
+  margin-right: 200px;
+}
+.imageThree .austrailia {
+  font-size: 80px;
+  font-family: ProximaNovaT;
+  color: white;
+  text-align: center;
+  margin-top: 35px;
+}
+.imageThree span {
+  font-size: 30px;
+  font-family: ProximaNovaT;
+  color: white;
+  margin-left: 40px;
+}

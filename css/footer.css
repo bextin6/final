@@ -1,0 +1,165 @@
+footer {
+  height: 455px;
+  background-color: #ee4367;
+  margin: 0 auto;
+}
+footer .p-text {
+  max-width: 1300px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-top: 50px;
+  font-family: GilSansReg;
+  font-size: 16px;
+  color: white;
+}
+footer .p-text2 {
+  max-width: 1300px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  font-family: GilSansReg;
+  font-size: 16px;
+  color: white;
+}
+footer .p-text3 {
+  max-width: 1300px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  font-family: GilSansReg;
+  font-size: 16px;
+  color: white;
+}
+footer .copyright {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  text-align: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-top: 80px;
+  font-family: GilSansReg;
+  font-size: 12px;
+  color: rgba(255, 255, 255, 0.5);
+}
+footer .center {
+  max-width: 1300px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+footer .center .logo {
+  position: relative;
+  width: 92px;
+  height: 42px;
+  border: solid 2px #ffffff;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-top: 50px;
+}
+footer .center .logo span {
+  font-family: GilSansReg;
+  font-size: 20px;
+  position: absolute;
+  bottom: -5px;
+  color: white;
+}
+footer .signup-wrapper {
+  height: 60px;
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+footer .signup-wrapper .signup {
+  height: 60px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  max-width: 696px;
+  margin: 0 auto;
+}
+footer .signup-wrapper .signup input {
+  height: 100%;
+  width: 529px;
+  background-color: #f56b88;
+  border: none;
+  color: #ee4367;
+  font-size: 16px;
+  padding-left: 15px;
+}
+footer .signup-wrapper .signup ::-webkit-input-placeholder {
+  color: #ee4367;
+  opacity: 1;
+}
+footer .signup-wrapper .signup ::-moz-placeholder {
+  color: #ee4367;
+  opacity: 1;
+}
+footer .signup-wrapper .signup :-ms-input-placeholder {
+  color: #ee4367;
+  opacity: 1;
+}
+footer .signup-wrapper .signup ::-ms-input-placeholder {
+  color: #ee4367;
+  opacity: 1;
+}
+footer .signup-wrapper .signup ::placeholder {
+  color: #ee4367;
+  opacity: 1;
+}
+footer .signup-wrapper .signup .button {
+  height: 100%;
+  width: 167px;
+  background-color: white;
+  text-align: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  font-family: GilSansReg;
+  font-size: 16px;
+  color: #ee4367;
+}
+
+@media (max-width: 1000px) {
+  .signup-wrapper .signup {
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+  }
+}

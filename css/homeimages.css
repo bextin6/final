@@ -1,0 +1,31 @@
+.gallery-images {
+  margin-top: 500px;
+}
+.gallery-images .gallery-images div {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.gallery-images .rowOne {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  margin-bottom: 30px;
+}
+.gallery-images .rowOne .imageOne {
+  width: 236px;
+  height: 304px;
+  background-image: url(../images/tour/tour-01.jpg);
+}
+.gallery-images .rowOne .imageTwo {
+  width: 236px;
+  height: 304px;
+  background-image: url(../images/tour/tour-02.jpg);
+}
+.gallery-images .rowOne .imageThree {
+  width: 236px;
+  height: 304px;
+  background-image: url(../images/tour/tour-03.jpg);
+}

@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    margin-bottom: 1px;
+}
+
+@font-face {
+    font-family: GillSans;
+    src: url(fonts2/GillSans.ttf);
+  }
+
+  @font-face {
+    font-family: ProximaNovaThin;
+    src: url(fonts2/proxima-nova-thin.ttf);
+  }
+
+  @font-face {
+    font-family: GillSansItalic;
+    src: url(fonts2/GillSansItalic.ttf);
+  }
+
+  @font-face {
+    font-family: GillSansLight;
+    src: url(fonts2/GillSans-Light.ttf);
+  }
+
+

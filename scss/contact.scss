@@ -1,0 +1,141 @@
+.contact {
+    max-width: 400px;
+    min-height: 442px;
+    margin-left: 140px;
+    display: flex;
+  }
+  
+  .contact .contact-title {
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: bold;
+    border-bottom: solid 2px black;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    font-family: ProximaNovaThin;
+    font-style: normal;
+    margin-top: 100px;
+  }
+
+  .con1 {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 35px;
+  }
+
+  .contactphoto {
+    background-image: url(../images/googlemap.jpeg);
+    height: 442px;
+    width: 400px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+
+  .input-wrapperCon {
+    margin-top: 0px;
+    width: 344px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 230px;
+
+    .formCon {
+        width: 529px;
+        height: 60px;
+        margin-right: -465px;
+        margin-left: -190px;
+    }
+}
+
+.text-fieldCon {
+    width: 100%;
+    padding: 10px;
+    outline: none;
+    box-sizing: border-box;
+    border-color: #79addc;
+    font-family: GillSansLight;
+}
+
+.input-wrapperCon2 {
+    margin-top: 0px;
+    width: 344px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 630px;
+    margin-top: -380px;
+
+    .formCon2 {
+        width: 529px;
+        height: 60px;
+        margin-right: -630px;
+        margin-left: -190px;
+    }
+}
+
+.text-fieldCon2 {
+    width: 100%;
+    padding: 10px;
+    outline: none;
+    box-sizing: border-box;
+    border-color: #79addc;
+    font-family: GillSansLight;
+}
+
+
+
+.input-wrapperCon3 {
+    margin-top: 0px;
+    width: 344px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 630px;
+
+    .formCon3 {
+        width: 529px;
+        height: 60px;
+        margin-right: -630px;
+        margin-left: -190px;
+    }
+}
+
+.text-fieldCon3 {
+    width: 100%;
+    padding: 10px;
+    outline: none;
+    box-sizing: border-box;
+    border-color: #79addc;
+    font-family: GillSansLight;
+}
+
+.input-wrapperCon4 {
+    margin-top: 0px;
+    width: 344px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 630px;
+
+    .formCon4 {
+        width: 529px;
+        height: 60px;
+        margin-right: -630px;
+        margin-left: -190px;
+    }
+}
+
+.text-fieldCon4 {
+    width: 100%;
+    font-size: 190px;
+    padding: 10px;
+    outline: none;
+    box-sizing: border-box;
+    border-color: #79addc;
+    font-family: GillSansLight;
+}
+
+.infoCon {
+    width: 400px;
+    height: 161px;
+    display: flex;
+    margin-top: 250px;
+    margin-left: 140px;
+}

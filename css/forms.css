@@ -1,0 +1,160 @@
+.header {
+  font-size: 40px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.input-wrapper {
+  margin-top: 100px;
+  width: 50%;
+  position: relative;
+  margin-left: 300px;
+}
+
+.text-field {
+  width: 100%;
+  padding: 10px;
+  outline: none;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.text-field:focus {
+  border: 2px solid blue;
+}
+
+.icon {
+  position: absolute;
+  right: 20px;
+  top: 11px;
+}
+
+.first-name {
+  margin-left: -110px;
+  font-size: 20px;
+  margin-top: -30px;
+}
+
+.input-wrapper2 {
+  margin-top: 30px;
+  width: 50%;
+  position: relative;
+  margin-left: 300px;
+}
+
+.text-field2 {
+  width: 100%;
+  padding: 10px;
+  outline: none;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.text-field2:focus {
+  border: 2px solid blue;
+}
+
+.icon2 {
+  position: absolute;
+  right: 20px;
+  top: 11px;
+}
+
+.last-name {
+  margin-left: -110px;
+  font-size: 20px;
+  margin-top: -30px;
+}
+
+.input-wrapper3 {
+  margin-top: 30px;
+  width: 50%;
+  position: relative;
+  margin-left: 300px;
+}
+
+.text-field3 {
+  width: 100%;
+  padding: 10px;
+  outline: none;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.text-field3:focus {
+  border: 2px solid blue;
+}
+
+.icon3 {
+  position: absolute;
+  right: 20px;
+  top: 11px;
+}
+
+.address {
+  margin-left: -110px;
+  font-size: 20px;
+  margin-top: -30px;
+}
+
+.input-wrapper4 {
+  margin-top: 30px;
+  width: 50%;
+  position: relative;
+  margin-left: 300px;
+}
+
+.text-field4 {
+  width: 100%;
+  padding: 10px;
+  outline: none;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.text-field4:focus {
+  border: 2px solid blue;
+}
+
+.icon4 {
+  position: absolute;
+  right: 20px;
+  top: 11px;
+}
+
+.phone {
+  margin-left: -130px;
+  font-size: 20px;
+  margin-top: -30px;
+}
+
+.input-wrapper5 {
+  margin-top: 30px;
+  width: 50%;
+  position: relative;
+  margin-left: 300px;
+}
+
+.text-field5 {
+  width: 100%;
+  padding: 10px;
+  outline: none;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.text-field5:focus {
+  border: 2px solid blue;
+}
+
+.icon5 {
+  position: absolute;
+  right: 20px;
+  top: 11px;
+}
+
+.email {
+  margin-left: -100px;
+  font-size: 20px;
+  margin-top: -30px;
+}

@@ -1,0 +1,29 @@
+.hero2 {
+    background-image: linear-gradient(
+        to bottom, rgba(0, 0, 0,.5),
+        rgba(0, 0, 0,.5))
+        ,url(../images/tour/tours-header.jpg);
+    height: 200px;
+    max-width: 981px;
+    margin: 0 auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    margin-top: 50px;
+  }
+
+  .hero2 .hero2-title {
+    position: absolute;
+  }
+
+  .title-2 {
+    font-size: 60px;
+    color: white;
+    font-family: ProximaNovaT;
+    margin-bottom: -200px;
+    width: 256px;
+  }

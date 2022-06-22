@@ -1,0 +1,85 @@
+.offer1 {
+    max-width: 980px;
+    min-height: 378px;
+    margin-left: 140px;
+    display: flex;
+  }
+  
+  .offer1 .offer-title {
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: bold;
+    border-bottom: solid 2px black;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    font-family: GillSansReg;
+    font-style: normal;
+    margin-top: 100px;
+  }
+  
+  .offer12-text {
+    margin-top: 80px;
+    font-family: GillSans;
+    font-weight: lighter;
+    font-size: 16px;
+    width: 290px;
+    height: 131px;
+    margin-left: -290px;
+  }
+
+  .offer12 {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 40px;
+  }
+  
+  .offerphoto1 {
+    background-image: url(../images/special-offer-01.jpg);
+    height: 289px;
+    width: 300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+
+  .offerphoto2 {
+    background-image: url(../images/special-offer-02.jpg);
+    height: 289px;
+    width: 300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+
+
+
+  .offer-titleSP {
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: bold;
+    padding-left: 30px;
+    padding-bottom: 20px;
+    font-family: ProximaNovaThin;
+    font-style: normal;
+  }
+
+  .buttonOffer {
+    border: none;
+    background-color: #79aadc;
+    color: white;
+    padding: 12px 18px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 15px;
+    font-family: GillSans;
+    text-transform: uppercase;
+    width: 133px;
+    height: 40px;
+    display: flex;
+    margin-left: 470px;
+    margin-top: -50px;
+    border-radius: 20px;
+    z-index: 1000;
+}
+
+  
